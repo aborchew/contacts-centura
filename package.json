@@ -1,0 +1,16 @@
+{
+  "name": "contacts",
+  "version": "1.0.0",
+  "description": "Coding Assessment for Centura Health",
+  "author": "borchew@gmail.com",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "is-uuid": "^1.0.2",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.1"
+  }
+}
